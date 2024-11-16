@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jayasuriya-ENGINEER
+- 👋 Hi, I’m @Jayasuriya
 - 👀 I’m interested in designing and architucture
 - 🌱 I’m currently learning java and html
 - 💞️ I’m looking to collaborate on web development
