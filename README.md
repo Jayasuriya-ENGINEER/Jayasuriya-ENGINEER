@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayasuriya
 - 👀 I’m interested in designing and architucture
-- 🌱 I’m currently learning java and html
+- 🌱 I’m currently develop and deploy simple websites
 - 💞️ I’m looking to collaborate on web development
 - 📫 I'm in linkedin( jayasuriya mit) and in discord as suriya
 - 😄 Pronouns:...
