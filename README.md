@@ -69,7 +69,7 @@
   <a href="mailto:jayasuriya77721@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/jayasuriya-s">
+  <a href="https://www.linkedin.com/in/jayasuriya-s-39302b2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/Jayasuriya-ENGINEER">
