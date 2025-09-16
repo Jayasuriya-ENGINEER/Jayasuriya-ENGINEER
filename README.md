@@ -1,6 +1,5 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="" width="150" alt="Jaya Suriya Avatar"/>
 </p>
 <h1 align="center">Hi, I'm Jaya Suriya 👋</h1>
 <p align="center"><i>Aspiring Software Developer | MERN Stack | AI Enthusiast | Designer</i></p>
@@ -78,9 +77,6 @@
   </a>
   <a href="https://www.hackerrank.com/jayasuriya77721">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_blaze_36">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
