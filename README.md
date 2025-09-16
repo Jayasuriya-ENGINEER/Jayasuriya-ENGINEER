@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/178363598?v=4" width="150" alt="Jaya Suriya Avatar"/>
+  <img src="" width="150" alt="Jaya Suriya Avatar"/>
 </p>
 <h1 align="center">Hi, I'm Jaya Suriya 👋</h1>
 <p align="center"><i>Aspiring Software Developer | MERN Stack | AI Enthusiast | Designer</i></p>
