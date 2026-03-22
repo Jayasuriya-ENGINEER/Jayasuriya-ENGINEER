@@ -78,7 +78,7 @@
   <a href="https://www.hackerrank.com/jayasuriya77721">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https:https://leetcode.com/u/U5I3jmi72N">
+  <a href="https://leetcode.com/u/U5I3jmi72N">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
