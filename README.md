@@ -6,17 +6,17 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
-- 🎓 Computer Science & Engineering student at **MIT Campus, Anna University** (CGPA: 8.44/10, Graduation: 2027)  
-- 💻 Passionate about **frontend development, MERN stack, and UI/UX design**  
-- 🤖 Enthusiastic about **AI & its ethical aspects**  
-- 🌱 Exploring **responsive design, problem solving, and Blender 3D modeling**  
-- 🤝 Open to collaboration on **impactful projects and innovative solutions**  
+-  Computer Science & Engineering student at **MIT Campus, Anna University** (CGPA: 8.3/10, Graduation: 2027)  
+-  Passionate about **frontend development, MERN stack, and UI/UX design**  
+-  Enthusiastic about **AI & its ethical aspects**  
+-  Exploring **responsive design, problem solving, and Blender 3D modeling**  
+-  Open to collaboration on **impactful projects and innovative solutions**  
 
 ---
 
-## 🛠️ Technologies & Tools  
+##  Technologies & Tools  
 
 ![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white)
@@ -38,23 +38,23 @@
 
 ---
 
-## 📌 Projects  
-
+##  Projects  
+- **[AN TRANSFORMER MODEL FOR SLEEP APNEA SEVERITY PROFILING](#)** – Currently building an AI for Sleep Apnea severity profiling using **Patch TST and serverless LLM model flow** 
 - **[LinkedIn for Disabled People](#)** – Built a platform for employment opportunities using **Java, WebSockets & SQL**  
 - **[Eco IndiaMart Clone](#)** – Sustainability-driven **MERN stack eCommerce platform** promoting Reuse, Reduce, Recycle  
 - **[Multimedia Compression Tool](#)** – Developed in **C++**, reducing media size by **40% with 2x efficiency**  
 
 ---
 
-## 🏆 Achievements  
+##  Achievements  
 
-- 🥇 **Google Developer Group Hackathon** – Competed with 2000+ teams, built a **women safety prototype (35% complete)**  
-- 🌐 **IoT Event Organizer** – Designed and deployed pages/banners for **7+ IoT workshops**, managed registrations in <24 hrs  
-- 🎨 **Best Miniature Artist** – 4 years of recognition for excellence in miniature modeling  
+-  **Google Developer Group Hackathon** – Competed with 2000+ teams, built a **women safety prototype (35% complete)**  
+-  **IoT Event Organizer** – Designed and deployed pages/banners for **7+ IoT workshops**, managed registrations in <24 hrs  
+-  **Best Miniature Artist** – 4 years of recognition for excellence in miniature modeling  
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayasuriya-ENGINEER&show_icons=true&theme=tokyonight" />
@@ -63,7 +63,7 @@
 
 ---
 
-## 🌍 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="mailto:jayasuriya77721@gmail.com">
@@ -78,6 +78,11 @@
   <a href="https://www.hackerrank.com/jayasuriya77721">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
+  <a href="https:https://leetcode.com/u/U5I3jmi72N/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  
 </p>
 
 ---
