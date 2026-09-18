@@ -8,11 +8,6 @@
 <br/>
 <br/>
 <h1 align="center">Jaya Suriya S.</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Software+Developer;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Building+Ideas+Into+Products" />
-</p>
-
 <p align="center">
   <strong>MIT Campus, Anna University · Class of 2027 · CGPA 8.3/10</strong>
 </p>
