@@ -2,32 +2,28 @@
 <!--                    HEADER                             -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4C20D&height=120&section=header&text=&fontSize=0" width="100%" />
-</p>
-<br/>
-<br/>
 <h1 align="center">Jaya Suriya S.</h1>
+
 <p align="center">
-  <strong>MIT Campus, Anna University · Class of 2027 · CGPA 8.3/10</strong>
+  <strong>Computer Science & Engineering Student · Software Developer · AI/ML Enthusiast</strong>
 </p>
 
 <p align="center">
-  Building practical software at the intersection of <strong>Web</strong>, <strong>Mobile</strong>, and <strong>AI</strong>.
+  Building practical software at the intersection of <strong>web</strong>, <strong>mobile</strong>, and <strong>AI</strong>.
 </p>
 
 <p align="center">
   <a href="https://github.com/Jayasuriya-ENGINEER">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=F4C20D" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jayasuriya-s-39302b2b6">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=F4C20D" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/U5I3jmi72N">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=F4C20D" />
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:jayasuriya77721@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=F4C20D" />
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -37,16 +33,16 @@
 
 I'm a Computer Science & Engineering student at **MIT Campus, Anna University**, graduating in 2027.
 
-I enjoy building practical products and exploring the intersection of **software engineering, artificial intelligence, and product design**.
+My interests span software engineering and applied AI, with a focus on building products rather than only experimenting with technologies.
 
-- Full-stack development with **React, Node.js, Express and MongoDB**
-- Mobile application development with **React Native and Expo**
-- Machine Learning, Deep Learning and Transformer architectures
+- Full-stack web development with **React, Node.js, Express and MongoDB**
+- Mobile application development with **React Native / Expo**
+- Machine Learning and Deep Learning
 - AI-powered applications and intelligent workflows
 - UI/UX and product-oriented development
-- Problem solving and core computer science
+- Problem solving and software engineering fundamentals
 
-Currently strengthening my foundations in **DSA, DBMS, OOP, System Design and AI/ML**.
+Currently focused on strengthening my foundations in **DSA, DBMS, OOP, system design and AI/ML** while building practical projects.
 
 ---
 
@@ -56,47 +52,34 @@ Currently strengthening my foundations in **DSA, DBMS, OOP, System Design and AI
 
 `C` `C++` `Java` `Python` `JavaScript` `SQL`
 
-### Web & Mobile
+### Web & Application Development
 
 `React` `Node.js` `Express.js` `MongoDB` `React Native` `Expo`
 
 ### AI / Machine Learning
 
-`Machine Learning` `Deep Learning` `Transformers` `PatchTST`
+`Python` `Machine Learning` `Deep Learning` `Transformers` `PatchTST`
 
-### Tools & Platforms
+### Tools
 
-`Git` `GitHub` `Supabase` `Oracle` `Figma` `Canva` `Blender`
-
----
-
-## Experience
-
-### Web Development Intern — The Haven Store
-
-**4 Months · Web Development**
-
-Worked on real-world web development tasks involving frontend implementation, responsive interfaces and product-oriented web experiences.
-
-`Web Development` · `Frontend` · `Responsive UI`
+`Git` `GitHub` `Figma` `Canva` `Blender` `Oracle`
 
 ---
 
-### Creative Co-Lead — GDG MIT
-
-Contributed to the creative and visual side of **Google Developer Groups on Campus, MIT**, working on event branding, promotional material, workshop visuals and UI/UX-oriented design.
-
-`Creative Direction` · `UI/UX` · `Event Design`
-
----
-
-## Projects
+## Selected Projects
 
 ### Sleep Apnea Severity Profiling
 
 **PatchTST · CNN · Transformer · Python · ECG**
 
-AI-based system for analyzing ECG time-series data and profiling sleep apnea severity using the **PhysioNet Apnea-ECG database**.
+An AI-based system for analyzing ECG recordings and profiling sleep apnea severity.
+
+- Worked with the **PhysioNet Apnea-ECG database**
+- ECG preprocessing and 30-second window segmentation
+- HRV feature extraction
+- PatchTST-based time-series modeling
+- Subject-aware training and evaluation
+- Automated analysis and report generation
 
 ---
 
@@ -104,7 +87,14 @@ AI-based system for analyzing ECG time-series data and profiling sleep apnea sev
 
 **Microsoft Edge Extension · JavaScript · IndexedDB**
 
-Privacy-focused browser extension for tracking browsing time, estimated data usage and productivity reminders.
+A privacy-focused browser extension designed to help users understand their browsing habits.
+
+- Tracks time spent across websites
+- Estimates website data usage
+- Provides browsing reminders
+- Uses local browser storage
+- Automatically manages older session data
+- Published as a Microsoft Edge extension
 
 ---
 
@@ -112,15 +102,42 @@ Privacy-focused browser extension for tracking browsing time, estimated data usa
 
 **MERN Stack · React · Node.js · MongoDB**
 
-Sustainability-focused e-commerce platform built around **Reuse · Reduce · Recycle**.
+A sustainability-focused e-commerce platform built around the principles of:
+
+**Reuse · Reduce · Recycle**
+
+The project explores how a conventional e-commerce workflow can be combined with sustainability-oriented product discovery and delivery.
 
 ---
 
-### WeeklyMirror
+### WeeklyMirror / Roomify
 
 **React Native · Expo · Supabase**
 
-Mobile memory application with authentication, image storage, memory feeds and streak tracking.
+A mobile application focused on capturing and organizing personal memories.
+
+- Authentication with Supabase
+- Image uploads and cloud storage
+- Memory feed
+- Streak tracking
+- Mobile-first interface
+- AI integration in progress
+
+---
+
+## Experience & Activities
+
+### Creative Co-Lead — GDG MIT
+
+Contributed to the creative and visual side of **Google Developer Groups on Campus, MIT**.
+
+Worked on:
+
+- Event branding
+- Posters and promotional material
+- Workshop visuals
+- Social media creatives
+- UI/UX-oriented design work
 
 ---
 
@@ -129,8 +146,8 @@ Mobile memory application with authentication, image storage, memory feeds and s
 - **GDG on Campus Solution Challenge** — Certificate of Achievement
 - **HCL GUVI Naan Mudhalvan Engineering Hackathon** — State Semi-Finalist
 - **Networking Basics** — Cisco Networking Academy
-- **NPTEL Mobile Virtual Reality** — 90%
 - **Canva Guru** — 200+ design projects
+- **NPTEL Mobile Virtual Reality** — 90%
 
 ---
 
@@ -138,53 +155,35 @@ Mobile memory application with authentication, image storage, memory feeds and s
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Jayasuriya-ENGINEER&show_icons=true&rank_icon=github&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFDF7"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Jayasuriya-ENGINEER&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFFFF"
+    height="165"
   />
-
   <img
-    src="https://streak-stats.demolab.com/?user=Jayasuriya-ENGINEER&hide_border=true&background=FFFDF7&ring=F4C20D&fire=F4C20D&currStreakLabel=111111&sideLabels=444444&dates=888888&currStreakNum=111111&sideNums=111111"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuriya-ENGINEER&layout=compact&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFDF7&langs_count=8"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuriya-ENGINEER&layout=compact&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFFFF"
+    height="165"
   />
 </p>
 
 ---
 
-## Contribution Graph
+## Let's Connect
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasuriya-ENGINEER&bg_color=FFFDF7&color=111111&line=F4C20D&point=111111&area=true&hide_border=true"
-    width="95%"
-  />
+
+<a href="mailto:jayasuriya77721@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F4C20D?style=for-the-badge&logo=gmail&logoColor=111111" />
+</a>
+
+<a href="https://www.linkedin.com/in/jayasuriya-s-39302b2b6">
+  <img src="https://img.shields.io/badge/LinkedIn-F4C20D?style=for-the-badge&logo=linkedin&logoColor=111111" />
+</a>
+
+<a href="https://leetcode.com/u/U5I3jmi72N">
+  <img src="https://img.shields.io/badge/LeetCode-F4C20D?style=for-the-badge&logo=leetcode&logoColor=111111" />
+</a>
+
 </p>
-
----
-
-## GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Jayasuriya-ENGINEER&theme=flat&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
-  />
+  <sub>Building. Learning. Iterating.</sub>
 </p>
-
----
-
-## Currently
-
-```text
-Learning       → DSA · DBMS · OOP · System Design
-
-Building       → AI-powered applications · Mobile Apps · Web Products
-
-Exploring      → Transformers · Time-Series ML · LLMs
-
-Improving      → Problem Solving · Software Engineering · Architecture
