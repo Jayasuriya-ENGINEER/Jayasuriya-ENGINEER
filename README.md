@@ -1,15 +1,18 @@
-<!-- ===================================================== -->
-<!--                    HEADER                             -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                         HEADER                            -->
+<!-- ========================================================= -->
 
 <h1 align="center">Jaya Suriya S.</h1>
 
 <p align="center">
-  <strong>Computer Science & Engineering Student · Software Developer · AI/ML Enthusiast</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Software+Developer;AI+%2F+ML+Enthusiast;Full+Stack+Developer;Building+Ideas+Into+Products"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  Building practical software at the intersection of <strong>web</strong>, <strong>mobile</strong>, and <strong>AI</strong>.
+  <strong>MIT Campus, Anna University · Class of 2027</strong>
 </p>
 
 <p align="center">
@@ -29,161 +32,16 @@
 
 ---
 
-## About
+## `whoami`
 
-I'm a Computer Science & Engineering student at **MIT Campus, Anna University**, graduating in 2027.
+```text
+Computer Science & Engineering student @ MIT, Anna University
+CGPA       → 8.3 / 10
+Graduation → 2027
 
-My interests span software engineering and applied AI, with a focus on building products rather than only experimenting with technologies.
-
-- Full-stack web development with **React, Node.js, Express and MongoDB**
-- Mobile application development with **React Native / Expo**
-- Machine Learning and Deep Learning
-- AI-powered applications and intelligent workflows
-- UI/UX and product-oriented development
-- Problem solving and software engineering fundamentals
-
-Currently focused on strengthening my foundations in **DSA, DBMS, OOP, system design and AI/ML** while building practical projects.
-
----
-
-## Tech Stack
-
-### Languages
-
-`C` `C++` `Java` `Python` `JavaScript` `SQL`
-
-### Web & Application Development
-
-`React` `Node.js` `Express.js` `MongoDB` `React Native` `Expo`
-
-### AI / Machine Learning
-
-`Python` `Machine Learning` `Deep Learning` `Transformers` `PatchTST`
-
-### Tools
-
-`Git` `GitHub` `Figma` `Canva` `Blender` `Oracle`
-
----
-
-## Selected Projects
-
-### Sleep Apnea Severity Profiling
-
-**PatchTST · CNN · Transformer · Python · ECG**
-
-An AI-based system for analyzing ECG recordings and profiling sleep apnea severity.
-
-- Worked with the **PhysioNet Apnea-ECG database**
-- ECG preprocessing and 30-second window segmentation
-- HRV feature extraction
-- PatchTST-based time-series modeling
-- Subject-aware training and evaluation
-- Automated analysis and report generation
-
----
-
-### Mindful — Browsing Awareness
-
-**Microsoft Edge Extension · JavaScript · IndexedDB**
-
-A privacy-focused browser extension designed to help users understand their browsing habits.
-
-- Tracks time spent across websites
-- Estimates website data usage
-- Provides browsing reminders
-- Uses local browser storage
-- Automatically manages older session data
-- Published as a Microsoft Edge extension
-
----
-
-### Eco IndiaMart
-
-**MERN Stack · React · Node.js · MongoDB**
-
-A sustainability-focused e-commerce platform built around the principles of:
-
-**Reuse · Reduce · Recycle**
-
-The project explores how a conventional e-commerce workflow can be combined with sustainability-oriented product discovery and delivery.
-
----
-
-### WeeklyMirror / Roomify
-
-**React Native · Expo · Supabase**
-
-A mobile application focused on capturing and organizing personal memories.
-
-- Authentication with Supabase
-- Image uploads and cloud storage
-- Memory feed
-- Streak tracking
-- Mobile-first interface
-- AI integration in progress
-
----
-
-## Experience & Activities
-
-### Creative Co-Lead — GDG MIT
-
-Contributed to the creative and visual side of **Google Developer Groups on Campus, MIT**.
-
-Worked on:
-
-- Event branding
-- Posters and promotional material
-- Workshop visuals
-- Social media creatives
-- UI/UX-oriented design work
-
----
-
-## Achievements
-
-- **GDG on Campus Solution Challenge** — Certificate of Achievement
-- **HCL GUVI Naan Mudhalvan Engineering Hackathon** — State Semi-Finalist
-- **Networking Basics** — Cisco Networking Academy
-- **Canva Guru** — 200+ design projects
-- **NPTEL Mobile Virtual Reality** — 90%
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jayasuriya-ENGINEER&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFFFF"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuriya-ENGINEER&layout=compact&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFFFF"
-    height="165"
-  />
-</p>
-
----
-
-## Let's Connect
-
-<p align="center">
-
-<a href="mailto:jayasuriya77721@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F4C20D?style=for-the-badge&logo=gmail&logoColor=111111" />
-</a>
-
-<a href="https://www.linkedin.com/in/jayasuriya-s-39302b2b6">
-  <img src="https://img.shields.io/badge/LinkedIn-F4C20D?style=for-the-badge&logo=linkedin&logoColor=111111" />
-</a>
-
-<a href="https://leetcode.com/u/U5I3jmi72N">
-  <img src="https://img.shields.io/badge/LeetCode-F4C20D?style=for-the-badge&logo=leetcode&logoColor=111111" />
-</a>
-
-</p>
-
-<p align="center">
-  <sub>Building. Learning. Iterating.</sub>
-</p>
+Interested in:
+→ Software Engineering
+→ Artificial Intelligence & Machine Learning
+→ Full-Stack Development
+→ Mobile Application Development
+→ UI/UX & Product Development
