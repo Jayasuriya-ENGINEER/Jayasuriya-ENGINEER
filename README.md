@@ -1,90 +1,189 @@
-<!-- Profile Banner -->
-<p align="center">
-</p>
-<h1 align="center">Hi, I'm Jaya Suriya 👋</h1>
-<p align="center"><i>Aspiring Software Developer | MERN Stack | AI Enthusiast | Designer</i></p>
+<!-- ===================================================== -->
+<!--                    HEADER                             -->
+<!-- ===================================================== -->
 
----
-
-##  About Me  
-
--  Computer Science & Engineering student at **MIT Campus, Anna University** (CGPA: 8.3/10, Graduation: 2027)  
--  Passionate about **frontend development, MERN stack, and UI/UX design**  
--  Enthusiastic about **AI & its ethical aspects**  
--  Exploring **responsive design, problem solving, and Blender 3D modeling**  
--  Open to collaboration on **impactful projects and innovative solutions**  
-
----
-
-##  Technologies & Tools  
-
-![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![UI/UX](https://img.shields.io/badge/-UI%2FUX-FF4088?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
-
----
-
-##  Projects  
-- **[AN TRANSFORMER MODEL FOR SLEEP APNEA SEVERITY PROFILING](#)** – Currently building an AI for Sleep Apnea severity profiling using **Patch TST and serverless LLM model flow** 
-- **[LinkedIn for Disabled People](#)** – Built a platform for employment opportunities using **Java, WebSockets & SQL**  
-- **[Eco IndiaMart Clone](#)** – Sustainability-driven **MERN stack eCommerce platform** promoting Reuse, Reduce, Recycle  
-- **[Multimedia Compression Tool](#)** – Developed in **C++**, reducing media size by **40% with 2x efficiency**  
-
----
-
-##  Achievements  
-
--  **Google Developer Group Hackathon** – Competed with 2000+ teams, built a **women safety prototype (35% complete)**  
--  **IoT Event Organizer** – Designed and deployed pages/banners for **7+ IoT workshops**, managed registrations in <24 hrs  
--  **Best Miniature Artist** – 4 years of recognition for excellence in miniature modeling  
-
----
-
-##  GitHub Stats  
+<h1 align="center">Jaya Suriya S.</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayasuriya-ENGINEER&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jayasuriya-ENGINEER&theme=tokyonight" />
+  <strong>Computer Science & Engineering Student · Software Developer · AI/ML Enthusiast</strong>
 </p>
 
----
-
-##  Connect with Me  
+<p align="center">
+  Building practical software at the intersection of <strong>web</strong>, <strong>mobile</strong>, and <strong>AI</strong>.
+</p>
 
 <p align="center">
-  <a href="mailto:jayasuriya77721@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jayasuriya-s-39302b2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
   <a href="https://github.com/Jayasuriya-ENGINEER">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/jayasuriya77721">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jayasuriya-s-39302b2b6">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/U5I3jmi72N">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
-
-  
+  <a href="mailto:jayasuriya77721@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-> "Code is not just logic, it’s creativity in motion."
+## About
+
+I'm a Computer Science & Engineering student at **MIT Campus, Anna University**, graduating in 2027.
+
+My interests span software engineering and applied AI, with a focus on building products rather than only experimenting with technologies.
+
+- Full-stack web development with **React, Node.js, Express and MongoDB**
+- Mobile application development with **React Native / Expo**
+- Machine Learning and Deep Learning
+- AI-powered applications and intelligent workflows
+- UI/UX and product-oriented development
+- Problem solving and software engineering fundamentals
+
+Currently focused on strengthening my foundations in **DSA, DBMS, OOP, system design and AI/ML** while building practical projects.
+
+---
+
+## Tech Stack
+
+### Languages
+
+`C` `C++` `Java` `Python` `JavaScript` `SQL`
+
+### Web & Application Development
+
+`React` `Node.js` `Express.js` `MongoDB` `React Native` `Expo`
+
+### AI / Machine Learning
+
+`Python` `Machine Learning` `Deep Learning` `Transformers` `PatchTST`
+
+### Tools
+
+`Git` `GitHub` `Figma` `Canva` `Blender` `Oracle`
+
+---
+
+## Selected Projects
+
+### Sleep Apnea Severity Profiling
+
+**PatchTST · CNN · Transformer · Python · ECG**
+
+An AI-based system for analyzing ECG recordings and profiling sleep apnea severity.
+
+- Worked with the **PhysioNet Apnea-ECG database**
+- ECG preprocessing and 30-second window segmentation
+- HRV feature extraction
+- PatchTST-based time-series modeling
+- Subject-aware training and evaluation
+- Automated analysis and report generation
+
+---
+
+### Mindful — Browsing Awareness
+
+**Microsoft Edge Extension · JavaScript · IndexedDB**
+
+A privacy-focused browser extension designed to help users understand their browsing habits.
+
+- Tracks time spent across websites
+- Estimates website data usage
+- Provides browsing reminders
+- Uses local browser storage
+- Automatically manages older session data
+- Published as a Microsoft Edge extension
+
+---
+
+### Eco IndiaMart
+
+**MERN Stack · React · Node.js · MongoDB**
+
+A sustainability-focused e-commerce platform built around the principles of:
+
+**Reuse · Reduce · Recycle**
+
+The project explores how a conventional e-commerce workflow can be combined with sustainability-oriented product discovery and delivery.
+
+---
+
+### WeeklyMirror / Roomify
+
+**React Native · Expo · Supabase**
+
+A mobile application focused on capturing and organizing personal memories.
+
+- Authentication with Supabase
+- Image uploads and cloud storage
+- Memory feed
+- Streak tracking
+- Mobile-first interface
+- AI integration in progress
+
+---
+
+## Experience & Activities
+
+### Creative Co-Lead — GDG MIT
+
+Contributed to the creative and visual side of **Google Developer Groups on Campus, MIT**.
+
+Worked on:
+
+- Event branding
+- Posters and promotional material
+- Workshop visuals
+- Social media creatives
+- UI/UX-oriented design work
+
+---
+
+## Achievements
+
+- **GDG on Campus Solution Challenge** — Certificate of Achievement
+- **HCL GUVI Naan Mudhalvan Engineering Hackathon** — State Semi-Finalist
+- **Networking Basics** — Cisco Networking Academy
+- **Canva Guru** — 200+ design projects
+- **NPTEL Mobile Virtual Reality** — 90%
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jayasuriya-ENGINEER&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFFFF"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuriya-ENGINEER&layout=compact&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFFFF"
+    height="165"
+  />
+</p>
+
+---
+
+## Let's Connect
+
+<p align="center">
+
+<a href="mailto:jayasuriya77721@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F4C20D?style=for-the-badge&logo=gmail&logoColor=111111" />
+</a>
+
+<a href="https://www.linkedin.com/in/jayasuriya-s-39302b2b6">
+  <img src="https://img.shields.io/badge/LinkedIn-F4C20D?style=for-the-badge&logo=linkedin&logoColor=111111" />
+</a>
+
+<a href="https://leetcode.com/u/U5I3jmi72N">
+  <img src="https://img.shields.io/badge/LeetCode-F4C20D?style=for-the-badge&logo=leetcode&logoColor=111111" />
+</a>
+
+</p>
+
+<p align="center">
+  <sub>Building. Learning. Iterating.</sub>
+</p>
