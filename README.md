@@ -66,81 +66,88 @@ Currently focused on strengthening my foundations in **DSA, DBMS, OOP, system de
 
 ---
 
-## Selected Projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FABD2F&center=true&vCenter=true&width=500&lines=%23+Selected+Projects;%23+Featured+Work;%23+Things+I've+Built" alt="Selected Projects Typist" />
+</p>
 
-### Sleep Apnea Severity Profiling
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
 
-**PatchTST · CNN · Transformer · Python · ECG**
+  <!-- Project 1 -->
+  <div style="background-color: #282828; border: 1px solid #3c3836; border-left: 4px solid #FABD2F; padding: 18px 20px; border-radius: 8px; margin-bottom: 16px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 8px;">
+      <h3 style="color: #EBDBB2; margin: 0; font-size: 1.15rem; font-weight: 600;">Sleep Apnea Severity Profiling</h3>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/PatchTST-FABD2F?style=flat-square&logoColor=282828" />
+      </div>
+    </div>
+    <p style="color: #A89984; font-size: 0.9rem; margin: 0 0 10px 0;">AI-driven ECG time-series analysis for automated sleep apnea severity detection and reporting.</p>
+    <ul style="color: #EBDBB2; font-size: 0.88rem; line-height: 1.5; margin: 0; padding-left: 18px;">
+      <li>Preprocessed PhysioNet ECG database into 30s window segmentations with extracted HRV features.</li>
+      <li>Implemented PatchTST transformer modeling with subject-aware training and automated evaluation.</li>
+    </ul>
+  </div>
 
-An AI-based system for analyzing ECG recordings and profiling sleep apnea severity.
+  <!-- Project 2 -->
+  <div style="background-color: #282828; border: 1px solid #3c3836; border-left: 4px solid #FABD2F; padding: 18px 20px; border-radius: 8px; margin-bottom: 16px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 8px;">
+      <h3 style="color: #EBDBB2; margin: 0; font-size: 1.15rem; font-weight: 600;">Mindful — Browsing Awareness</h3>
+      <div>
+        <img src="https://img.shields.io/badge/Edge_Extension-0078D4?style=flat-square&logo=microsoftedge&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/IndexedDB-FABD2F?style=flat-square" />
+      </div>
+    </div>
+    <p style="color: #A89984; font-size: 0.9rem; margin: 0 0 10px 0;">Privacy-first browser extension published on the Microsoft Add-ons Store tracking habits and data usage locally.</p>
+    <ul style="color: #EBDBB2; font-size: 0.88rem; line-height: 1.5; margin: 0; padding-left: 18px;">
+      <li>Monitors site duration & estimated data consumption locally with automated session cleanup.</li>
+    </ul>
+  </div>
 
-- Worked with the **PhysioNet Apnea-ECG database**
-- ECG preprocessing and 30-second window segmentation
-- HRV feature extraction
-- PatchTST-based time-series modeling
-- Subject-aware training and evaluation
-- Automated analysis and report generation
+  <!-- Project 3 -->
+  <div style="background-color: #282828; border: 1px solid #3c3836; border-left: 4px solid #FABD2F; padding: 18px 20px; border-radius: 8px; margin-bottom: 16px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 8px;">
+      <h3 style="color: #EBDBB2; margin: 0; font-size: 1.15rem; font-weight: 600;">Eco IndiaMart</h3>
+      <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </div>
+    </div>
+    <p style="color: #A89984; font-size: 0.9rem; margin: 0 0 10px 0;">A MERN-stack sustainability platform combining circular economy principles (Reuse · Reduce · Recycle) with e-commerce discovery.</p>
+  </div>
 
----
+  <!-- Project 4 -->
+  <div style="background-color: #282828; border: 1px solid #3c3836; border-left: 4px solid #FABD2F; padding: 18px 20px; border-radius: 8px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 8px;">
+      <h3 style="color: #EBDBB2; margin: 0; font-size: 1.15rem; font-weight: 600;">WeeklyMirror</h3>
+      <div>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </div>
+    </div>
+    <p style="color: #A89984; font-size: 0.9rem; margin: 0 0 10px 0;">Mobile reflection app for memory organization, streak tracking, Supabase auth, and cloud uploads.</p>
+  </div>
 
-### Mindful — Browsing Awareness
-
-**Microsoft Edge Extension · JavaScript · IndexedDB**
-
-A privacy-focused browser extension designed to help users understand their browsing habits.
-
-- Tracks time spent across websites
-- Estimates website data usage
-- Provides browsing reminders
-- Uses local browser storage
-- Automatically manages older session data
-- Published as a Microsoft Edge extension
-
----
-
-### Eco IndiaMart
-
-**MERN Stack · React · Node.js · MongoDB**
-
-A sustainability-focused e-commerce platform built around the principles of:
-
-**Reuse · Reduce · Recycle**
-
-The project explores how a conventional e-commerce workflow can be combined with sustainability-oriented product discovery and delivery.
-
----
-
-### WeeklyMirror / Roomify
-
-**React Native · Expo · Supabase**
-
-A mobile application focused on capturing and organizing personal memories.
-
-- Authentication with Supabase
-- Image uploads and cloud storage
-- Memory feed
-- Streak tracking
-- Mobile-first interface
-- AI integration in progress
-
----
+</div>
 
 ## Experience & Activities
 
-### Creative Co-Lead — GDG MIT
+### Web Development Intern
+![](https://img.shields.io/badge/The_Haven_Store-3_Months-FABD2F?style=for-the-badge&labelColor=282828&logo=codefactor&logoColor=FABD2F)
 
-Contributed to the creative and visual side of **Google Developer Groups on Campus, MIT**.
-
-Worked on:
-
-- Event branding
-- Posters and promotional material
-- Workshop visuals
-- Social media creatives
-- UI/UX-oriented design work
+- Engineered and delivered the full e-commerce web platform for [thehavenstore.in](https://thehavenstore.in).
+- Built responsive UI components and integrated core web features to optimize storefront performance.
 
 ---
 
+### Creative Co-Lead
+![](https://img.shields.io/badge/GDG_on_Campus-MIT-FABD2F?style=for-the-badge&labelColor=282828&logo=google&logoColor=FABD2F)
+
+- Directed visual branding, UI/UX designs, and media assets for developer workshops and campus initiatives.
+- Designed promotional materials, event collaterals, and recruitment assets for community growth.
 ## Achievements
 
 - **GDG on Campus Solution Challenge** — Certificate of Achievement
@@ -152,7 +159,6 @@ Worked on:
 ---
 
 ## GitHub Activity
-
 <p align="center">
   <!-- GitHub Stats Card -->
   <img 
@@ -166,10 +172,13 @@ Worked on:
     height="165" 
     alt="GitHub Streak Stats" 
   />
-  <!-- Top Languages Pie Chart Card -->
+</p>
+
+<p align="center">
+  <!-- Top Languages Compact Bar Card -->
   <img 
-    src="https://github-readme-stats-eight-indol-49.vercel.app/api/top-langs/?username=Jayasuriya-ENGINEER&layout=pie&hide_border=true&theme=gruvbox" 
-    height="165" 
+    src="https://github-readme-stats-eight-indol-49.vercel.app/api/top-langs/?username=Jayasuriya-ENGINEER&layout=compact&hide_border=true&theme=gruvbox" 
+    height="500" 
     alt="Top Languages" 
   />
 </p>
