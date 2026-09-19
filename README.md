@@ -154,17 +154,26 @@ Worked on:
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jayasuriya-ENGINEER&show_icons=true&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFFFF"
-    height="165"
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats-eight-indol-49.vercel.app/api?username=Jayasuriya-ENGINEER&show_icons=true&hide_border=true&hide_rank=true&theme=gruvbox" 
+    height="165" 
+    alt="GitHub Stats" 
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasuriya-ENGINEER&layout=compact&hide_border=true&title_color=111111&text_color=444444&icon_color=F4C20D&bg_color=FFFFFF"
-    height="165"
+  <!-- GitHub Streak Stats Card -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasuriya-ENGINEER&hide_border=true&theme=gruvbox" 
+    height="165" 
+    alt="GitHub Streak Stats" 
+  />
+  <!-- Top Languages Pie Chart Card -->
+  <img 
+    src="https://github-readme-stats-eight-indol-49.vercel.app/api/top-langs/?username=Jayasuriya-ENGINEER&layout=pie&hide_border=true&theme=gruvbox" 
+    height="165" 
+    alt="Top Languages" 
   />
 </p>
 
----
 
 ## Let's Connect
 
